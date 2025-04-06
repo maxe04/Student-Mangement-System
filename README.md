@@ -4,7 +4,7 @@ Student Management System where one can add student data to database and display
 <br />
 
 <h2>How to Use</h2>
-Add postgres java driver to java project. Create corresponding table in pgAdmin. Paste PostgreSQL table, database and user details into DatabaseHelper class to connect to your database. Enjoy!
+Add postgres jdbc driver to java project. Create corresponding table in pgAdmin. Paste PostgreSQL table, database and user details into DatabaseHelper class to connect to your database. Enjoy!
 <br />
 
 
