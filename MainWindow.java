@@ -331,7 +331,7 @@ public class MainWindow {
 					}
 
 				} else {
-					JOptionPane.showMessageDialog(window, "Please fill out every text field!");
+					JOptionPane.showMessageDialog(window, "Please fill in all required fields to continue.");
 				}
 
 			}
