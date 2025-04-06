@@ -1,6 +1,6 @@
 <h1>Student Management System</h1>
 
-Student Management System where one can add student data to database and display, add, remove and edit them using the UI.
+Student Management System where one can add student data to database and display, add, remove, filter and edit it using the UI.
 <br />
 
 <h2>How to Use</h2>
