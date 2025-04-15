@@ -28,23 +28,23 @@ Add postgres jdbc driver to java project. Create corresponding table in pgAdmin.
 
 <p align="center">
 Adding Student: <br/>
-<img src="https://i.imgur.com/DqVdkc7.gif" height="75%" width="75%" alt="Login Page"/>
+<img src="https://i.imgur.com/DqVdkc7.gif" height="75%" width="75%" alt="Adding Student"/>
 <br />
 <br />
 Remove Student:  <br/>
-<img src="https://i.imgur.com/WSz5r8n.gif" height="75%" width="75%" alt="Useraname or Passwordfield empty"/>
+<img src="https://i.imgur.com/WSz5r8n.gif" height="75%" width="75%" alt="Remove Student"/>
 <br />
 <br />
 Invalid Input: <br/>
-<img src="https://i.imgur.com/rmZrAlQ.gif" height="75%" width="75%" alt="Username or Password incorrect"/>
+<img src="https://i.imgur.com/rmZrAlQ.gif" height="75%" width="75%" alt="Invalid Input"/>
 <br />
 <br />
 Blank Fields Notification:  <br/>
-<img src="https://i.imgur.com/hSosTlt.gif" height="75%" width="75%" alt="Registration Page"/>
+<img src="https://i.imgur.com/hSosTlt.gif" height="75%" width="75%" alt="Blank Fields Notification"/>
 <br />
 <br />
 Filter Data:  <br/>
-<img src="https://i.imgur.com/J9y8Fy9.gif" height="75%" width="75%" alt="Username taken"/>
+<img src="https://i.imgur.com/J9y8Fy9.gif" height="75%" width="75%" alt="Filter Data"/>
 
 
 <!--
