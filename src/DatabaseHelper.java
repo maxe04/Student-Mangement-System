@@ -9,10 +9,9 @@ public class DatabaseHelper {
 
 	// Store PostgreSQL url, username and password.
 	// Enter your url, username and password here.
-	// Table name: students
-	private static final String url = "jdbc:postgresql://localhost:5432/**YOUR DATABASE NAME**";
-	private static final String username = "**YOUR USERNAME**";
-	private static final String password = "**YOUR PASSWORD**";
+	private static final String url = "jdbc:postgresql://localhost:5432/Testing";
+	private static final String username = "postgres";
+	private static final String password = "405011";
 
 	// Connect to database containing students table
 	private static Connection getConnection() throws SQLException {
